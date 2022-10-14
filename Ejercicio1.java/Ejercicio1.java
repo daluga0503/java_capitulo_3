@@ -10,4 +10,4 @@ public class Ejercicio1 {
         System.out.printf("%d * (%(d)=%d", n,x, n*x);
         sc.close();
     }
-}
+} 
