@@ -6,7 +6,7 @@ public class Ejercicio7 {
         System.out.println("Introduzca la base imponible de la factura");
         Scanner sc = new Scanner(System.in);
         base = sc.nextDouble;
-        System.out.println("EL precio de la factura es = ", + base*1.21);
+        System.out.println("EL precio de la factura es = " + base*1.21);
         sc.close();
     }
 }
